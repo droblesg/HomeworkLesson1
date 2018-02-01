@@ -1,0 +1,16 @@
+C:\Users\Daniel\Desktop\DB course C#\Homework-master\#1\HomeworkFirst\HomeworkFirst.Tests\obj\Debug\netcoreapp2.0\HomeworkFirst.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\DB course C#\Homework-master\#1\HomeworkFirst\HomeworkFirst.Tests\obj\Debug\netcoreapp2.0\HomeworkFirst.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\DB course C#\Homework-master\#1\HomeworkFirst\HomeworkFirst.Tests\obj\Debug\netcoreapp2.0\HomeworkFirst.Tests.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\DB course C#\Homework-master\#1\HomeworkFirst\HomeworkFirst.Tests\obj\Debug\netcoreapp2.0\HomeworkFirst.Tests.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\DB course C#\Homework-master\#1\HomeworkFirst\HomeworkFirst.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Daniel\Desktop\DB course C#\Homework-master\#1\HomeworkFirst\HomeworkFirst.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Daniel\Desktop\DB course C#\Homework-master\#1\HomeworkFirst\HomeworkFirst.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Daniel\Desktop\DB course C#\Homework-master\#1\HomeworkFirst\HomeworkFirst.Tests\bin\Debug\netcoreapp2.0\HomeworkFirst.Tests.deps.json
+C:\Users\Daniel\Desktop\DB course C#\Homework-master\#1\HomeworkFirst\HomeworkFirst.Tests\bin\Debug\netcoreapp2.0\HomeworkFirst.Tests.runtimeconfig.json
+C:\Users\Daniel\Desktop\DB course C#\Homework-master\#1\HomeworkFirst\HomeworkFirst.Tests\bin\Debug\netcoreapp2.0\HomeworkFirst.Tests.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\DB course C#\Homework-master\#1\HomeworkFirst\HomeworkFirst.Tests\bin\Debug\netcoreapp2.0\HomeworkFirst.Tests.dll
+C:\Users\Daniel\Desktop\DB course C#\Homework-master\#1\HomeworkFirst\HomeworkFirst.Tests\bin\Debug\netcoreapp2.0\HomeworkFirst.Tests.pdb
+C:\Users\Daniel\Desktop\DB course C#\Homework-master\#1\HomeworkFirst\HomeworkFirst.Tests\bin\Debug\netcoreapp2.0\HomeworkFirst.dll
+C:\Users\Daniel\Desktop\DB course C#\Homework-master\#1\HomeworkFirst\HomeworkFirst.Tests\bin\Debug\netcoreapp2.0\HomeworkFirst.pdb
+C:\Users\Daniel\Desktop\DB course C#\Homework-master\#1\HomeworkFirst\HomeworkFirst.Tests\obj\Debug\netcoreapp2.0\HomeworkFirst.Tests.dll
+C:\Users\Daniel\Desktop\DB course C#\Homework-master\#1\HomeworkFirst\HomeworkFirst.Tests\obj\Debug\netcoreapp2.0\HomeworkFirst.Tests.pdb
